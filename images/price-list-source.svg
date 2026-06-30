@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1600" viewBox="0 0 1600 1600" role="img" aria-labelledby="title desc">
+  <title id="title">Akasaka27美容クリニック 料金表</title>
+  <desc id="desc">主要施術の料金をまとめたJPEG変換用の料金表ソースです。</desc>
+  <rect width="1600" height="1600" fill="#ffffff"/>
+  <rect x="90" y="80" width="1420" height="1440" rx="28" fill="#ffffff" stroke="#c7a45a" stroke-width="4"/>
+  <line x1="170" y1="265" x2="1430" y2="265" stroke="#c7a45a" stroke-width="3"/>
+  <text x="800" y="175" text-anchor="middle" font-family="'Hiragino Mincho ProN', 'Yu Mincho', serif" font-size="58" fill="#111111" letter-spacing="4">Akasaka27美容クリニック</text>
+  <text x="800" y="238" text-anchor="middle" font-family="'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="28" fill="#7b6735" letter-spacing="5">PRICE LIST / 税込</text>
+
+  <g font-family="'Hiragino Sans', 'Noto Sans JP', sans-serif" fill="#111111">
+    <rect x="170" y="325" width="1260" height="72" fill="#111111"/>
+    <text x="210" y="372" font-size="31" fill="#ffffff" font-weight="700">外科施術</text>
+    <text x="1360" y="372" text-anchor="end" font-size="26" fill="#ffffff">料金</text>
+
+    <g font-size="27">
+      <text x="210" y="465">二重埋没自然癒着サスペンションブリッジ法</text>
+      <text x="1360" y="465" text-anchor="end">330,000円</text>
+      <line x1="170" y1="505" x2="1430" y2="505" stroke="#ece5d5" stroke-width="2"/>
+      <text x="210" y="565">二重切開（たるみ除去・脂肪切除含む）</text>
+      <text x="1360" y="565" text-anchor="end">450,000円</text>
+      <line x1="170" y1="605" x2="1430" y2="605" stroke="#ece5d5" stroke-width="2"/>
+      <text x="210" y="665">目の下のたるみ取り</text>
+      <text x="1360" y="665" text-anchor="end">350,000円</text>
+      <line x1="170" y1="705" x2="1430" y2="705" stroke="#ece5d5" stroke-width="2"/>
+      <text x="210" y="765">ほくろ除去</text>
+      <text x="1360" y="765" text-anchor="end">3,000円〜</text>
+    </g>
+
+    <rect x="170" y="840" width="1260" height="72" fill="#111111"/>
+    <text x="210" y="887" font-size="31" fill="#ffffff" font-weight="700">糸リフト</text>
+    <text x="1360" y="887" text-anchor="end" font-size="26" fill="#ffffff">料金</text>
+
+    <g font-size="27">
+      <text x="210" y="980">糸リフト（G-LIFT Flex） Bend Lift法</text>
+      <text x="1360" y="980" text-anchor="end">1本 45,000円</text>
+      <line x1="170" y1="1020" x2="1430" y2="1020" stroke="#ece5d5" stroke-width="2"/>
+      <text x="210" y="1080">ネックリフト</text>
+      <text x="1360" y="1080" text-anchor="end">115,000円</text>
+      <line x1="170" y1="1120" x2="1430" y2="1120" stroke="#ece5d5" stroke-width="2"/>
+      <text x="210" y="1180">ショッピングリフト</text>
+      <text x="1360" y="1180" text-anchor="end">150,000円</text>
+      <line x1="170" y1="1220" x2="1430" y2="1220" stroke="#ece5d5" stroke-width="2"/>
+      <text x="210" y="1280">目周り専用ショッピングリフト</text>
+      <text x="1360" y="1280" text-anchor="end">69,300円</text>
+    </g>
+
+    <rect x="170" y="1360" width="1260" height="72" fill="#111111"/>
+    <text x="210" y="1407" font-size="31" fill="#ffffff" font-weight="700">美容皮膚・点滴</text>
+    <text x="1360" y="1407" text-anchor="end" font-size="26" fill="#ffffff">料金</text>
+
+    <g font-size="27">
+      <text x="210" y="1492">ヒアルロン酸（アラガン）</text>
+      <text x="1360" y="1492" text-anchor="end">56,000円 / 79,000円</text>
+    </g>
+  </g>
+</svg>
